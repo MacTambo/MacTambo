@@ -26,4 +26,4 @@
 
 <br />
 
-<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, SQLite, Stripe, Brevo, Apple Wallet, Swagger, JWT, Git, HTML, CSS, JavaScript, SVG, Java, PHP, COBOL, HR Access, Claude, Claude Code" />
+<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, SQLite, Stripe, Brevo, Apple Wallet, Swagger, JWT, Git, HTML, CSS, JavaScript, SVG, Java, PHP, Android, iOS, COBOL, HR Access, Claude, Claude Code" />

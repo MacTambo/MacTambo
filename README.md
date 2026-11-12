@@ -4,6 +4,10 @@
 
 <br />
 
+<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, SQLite, Stripe, Brevo, Apple Wallet, Swagger, JWT, Git, HTML, CSS, JavaScript, SVG, Java, PHP, Android, iOS, COBOL, HR Access, Claude, Claude Code" />
+
+<br />
+
 <img src="assets/projects.svg" width="100%" alt="Mes projets" />
 
 <p align="center">
@@ -24,6 +28,3 @@
   <a href="https://github.com/MacTambo/MagigGitHub"><img src="assets/p-magiggithub.svg" height="46" alt="MagigGitHub" /></a>
 </p>
 
-<br />
-
-<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, SQLite, Stripe, Brevo, Apple Wallet, Swagger, JWT, Git, HTML, CSS, JavaScript, SVG, Java, PHP, Android, iOS, COBOL, HR Access, Claude, Claude Code" />

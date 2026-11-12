@@ -10,4 +10,4 @@
 
 <br />
 
-<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, Stripe, Brevo, Apple Wallet, Swagger, JWT, HTML, CSS, JavaScript, SVG, Java, PHP" />
+<img src="assets/stack.svg" width="100%" alt="Stack : TypeScript, Node.js, Express, Sequelize, MySQL, SQLite, Stripe, Brevo, Apple Wallet, Swagger, JWT, Git, HTML, CSS, JavaScript, SVG, Java, PHP, COBOL, HR Access, Claude, Claude Code" />
